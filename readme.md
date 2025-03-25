@@ -91,5 +91,3 @@ int main() {
 本仓库的所有代码都是使用make命令来编译，采用的是通用的makefile编译脚本。
 
 更多的示例代码，详见demo子目录内容，demo目录下的每个子目录都是一个单独的示例程序。
-
-https://github.com/newland2024/MyCoroutine/blob/main/mp_account.png#pic_center=660*180)
